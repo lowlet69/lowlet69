@@ -18,5 +18,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
+
+<h3><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td></h3>
+
 <br />
 <br />
