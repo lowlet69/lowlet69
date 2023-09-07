@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p><a href="https://t.me/lowlet69"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height=26 width=26></a></p> 
-<p><a href="mailto:nikitalalet@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-logo-icons-2.png" height=25></a></p>
+<a href="https://t.me/lowlet69"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height=26 width=26></a>
+<a href="mailto:nikitalalet@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-logo-icons-2.png" height=25></a>
 
 ### My name is Nikita Laletin
 - 🔭 I’m currently working at [Woven by Toyota]([https://woven-planet.global/en](https://woven.toyota/en))
