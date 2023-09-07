@@ -1,14 +1,12 @@
-### Hi there, I'm Vladimir Levin - aka opa_oz 👋
+### Hi there 👋
 
-## I'm a Team Leader, Developer, and Mentor!
+<p><a href="https://www.linkedin.com/in/akylson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@akylson"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+
+### My name is Nikita Laletin
 - 🔭 I’m currently working at [Woven by Toyota]([https://woven-planet.global/en](https://woven.toyota/en))
 - 🥅 2023 Goals: Damn, I successfully moved to Japan! That's enough goals for this year!
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
-### Connect with me:
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
