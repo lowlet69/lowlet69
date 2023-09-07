@@ -6,7 +6,7 @@
 ### My name is Nikita Laletin
 - I co-founded and worked at crypto-startup called CHBY 🏦
 - I have made my passion for data analysis and making data-based decisions into a job 📊
-- Recently, I have been studying latest tools and technologies to keep up with the flow 🐳
+- Recently, I have been studying a lot to keep up with latest tools, technologies and methodologies 🐳
 
 
 <br />
