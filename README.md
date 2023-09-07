@@ -8,7 +8,6 @@
 - I have made my passion for data analysis and making data-based decisions into a job 📊
 - Recently, I have been studying a lot to keep up with latest tools, technologies and methodologies 🐳
 
-
 <br />
 
 ### Languages and Tools:
@@ -17,9 +16,7 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-
-<h3><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td></h3>
 
 <br />
 
+<h3><a href="https://github.com/lowlet69"><b>Yandex.Praktikum Data Analysis Projects</b></a></td></h3>
