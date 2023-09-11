@@ -18,4 +18,4 @@
 
 <br />
 
-<h3><a href="https://github.com/lowlet69"><b>Yandex.Praktikum Data Analysis Projects</b></a></td></h3>
+<h3><a href="https://github.com/lowlet69/portfolio"><b>Yandex.Praktikum Data Analysis Projects</b></a></td></h3>
